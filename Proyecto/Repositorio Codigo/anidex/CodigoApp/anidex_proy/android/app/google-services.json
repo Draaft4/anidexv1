@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "194853670208",
+    "project_id": "anidexapp",
+    "storage_bucket": "anidexapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194853670208:android:4869e000b197119b3e7ea5",
+        "android_client_info": {
+          "package_name": "com.example.anidex_proy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194853670208-8btvsfcq22jf71tpo87nchrt8ldpl3cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anidex_proy",
+            "certificate_hash": "2af18c48c866de19012bb7278ecba42dbd55b93b"
+          }
+        },
+        {
+          "client_id": "194853670208-60q501p8t5t3d7btf19vm92fr6a9ppi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNoUyTnZ3HyUivd2D1BqTGRbAoT2EQbXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194853670208-60q501p8t5t3d7btf19vm92fr6a9ppi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
